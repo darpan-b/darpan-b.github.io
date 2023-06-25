@@ -1,0 +1,25 @@
+h1 {
+  color: #1E2F97;
+}
+
+body {
+  /* background-color: #d4f0f7; */
+  background-color: #FFFACD;
+
+  max-width: 800px;
+  padding: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  border: 1px solid #1E2F97;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
