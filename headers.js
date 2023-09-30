@@ -8,7 +8,7 @@ document.write('\
 		<h3 align="center">\
 		   		<b>\
 		   		<a href="/index.html">Home</a> .\
-         <a href="/My_CV_20230925.pdf">CV</a> .\
+         <a href="/Darpan-CV-20230930.pdf">CV</a> .\
          <a href="mailto:dbhattacharya170803@gmail.com">Contact</a> \
 </b></h3>\
 <br>\
