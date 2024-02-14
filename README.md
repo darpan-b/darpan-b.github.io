@@ -1,2 +1,5 @@
-# darpan-b.github.io
-My personal website
+# Minimal Research Theme
+
+Template Credits: [Sebastin Santy](http://sebastinsanty.com/) 
+
+
